@@ -34,5 +34,4 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/personal-blogging-website.git
-   cd personal-blogging-website
+   [git clone https://github.com/haiderpro12/Web-technology-final-project.git]
